@@ -2,7 +2,15 @@
 
 Migrate the existing state to Vuex. 
 
+Notes:
 
+There is a lot to learn and practice. 
+
+* actions
+* mutations
+* getters
+* namespaced
+* (state, payload)
 
 ## Getting Started
 
@@ -23,6 +31,24 @@ Initial Code
 * 'Login" button does not work
 * current state local local inject
 
+Completed Vue Shop with Vuex
+
+Products
+
+<img src="images/finalVueShop.png" width=500 />
+
+Cart
+
+<img src="images/finalCart.png" width=500 />
+
+Admin 
+
+<img src="images/admin.png" width=500 />
+
+**Plenty more to do:**
+
+* Create an actual Admin page with Authentication and functionality 
+* Add media breakpoints for different screen sizes 
 
 ## Resources
 
