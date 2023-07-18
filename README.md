@@ -20,8 +20,11 @@ Initial Code
 <img src="images/initial.png" width=500 />
 
 * image to tent is broken
-* Login button does not work
+* 'Login" button does not work
 * current state local local inject
 
 
 ## Resources
+
+Challenge/ Practice is from Udemy course by Maximilian Schwarzmüller.
+
