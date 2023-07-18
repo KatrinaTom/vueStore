@@ -28,8 +28,10 @@ Initial Code
 <img src="images/initial.png" width=500 />
 
 * image to tent is broken
-* 'Login" button does not work
-* current state local local inject
+* 'Login' button does not work
+* current state local, inject
+
+_____
 
 Completed Vue Shop with Vuex
 
